@@ -26,3 +26,5 @@ python app.py
 The application should now be accessible via your web browser at http://localhost:5000/ or the address displayed in the terminal.
 
 Note: Loading the application may take some time as it fetches data from Google Drive. Please be patient during the initial loading process.
+
+Analysis Findings Link :  https://drive.google.com/file/d/14Oe77iR7CWimNiJ2oTgME-YB-7gHmBsE/view?usp=share_link
