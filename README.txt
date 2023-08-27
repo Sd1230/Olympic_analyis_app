@@ -27,4 +27,6 @@ The application should now be accessible via your web browser at http://localhos
 
 Note: Loading the application may take some time as it fetches data from Google Drive. Please be patient during the initial loading process.
 
+Deployed App: https://stsmmiz3hxlsuffwkdtdcz.streamlit.app/
+
 Analysis Findings Link :  https://drive.google.com/file/d/14Oe77iR7CWimNiJ2oTgME-YB-7gHmBsE/view?usp=share_link
